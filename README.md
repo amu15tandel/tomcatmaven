@@ -1,1 +1,2 @@
-# tomcatmaven
+# TomcatMavenApp
+Sample Tomcat Maven App
